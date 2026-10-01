@@ -1,4 +1,7 @@
-# Bad Apple!! in yt-project (AMR Visualizer)
+# [Bad Apple!! in yt-project (AMR Visualizer)](https://youtu.be/O9HEwOnB-nA)
+
+## Preview
+
 
 > *"If it exists, Bad Apple!! can be rendered on it."*
 
@@ -8,7 +11,7 @@ Bad Apple!! rendered as an astrophysical simulation using the **[yt-project](htt
 
 ## Overview
 
-This project converts the iconic *Bad Apple!!* music video into a scientific Adaptive Mesh Refinement (AMR) simulation dataset. Each frame is treated as a 2D astrophysical density slice, dynamically discretized into nested multi-level grid patches that adaptively cluster around character contours and silhouette shockfronts.
+This project converts the iconic [*Bad Apple!!*](https://www.youtube.com/watch?v=FtutLA63Cp8) music video into a scientific Adaptive Mesh Refinement (AMR) simulation dataset. Each frame is treated as a 2D astrophysical density slice, dynamically discretized into nested multi-level grid patches that adaptively cluster around character contours and silhouette shockfronts.
 
 ### Key Features
 
