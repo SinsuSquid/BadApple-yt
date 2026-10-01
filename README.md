@@ -2,6 +2,7 @@
 
 ## Preview
 
+![Bad Apple but](preview.gif)
 
 > *"If it exists, Bad Apple!! can be rendered on it."*
 
